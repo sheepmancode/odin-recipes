@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    background-color: burlywood;
+    border: 1px;
+    border-radius: 10px;
+    padding: 20px;
+    border-width: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    color: blanchedalmond;
+}
+
+#links{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: burlywood;
+    border: 1px;
+    border-radius: 10px;
+    padding: 20px;
+    border-width: 400px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
+
